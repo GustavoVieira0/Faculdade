@@ -68,7 +68,7 @@
 
 	<table border="1">
 		<tr align="center">
-			<td colspan="5">CARRINHO DE COMPRAS</td>
+			<td colspan="5">CARRINHO DE COMPRASa</td>
 		</tr>
 		<tr align="center">
 			<td>Id</td>
